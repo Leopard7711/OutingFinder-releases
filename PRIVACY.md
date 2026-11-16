@@ -30,7 +30,7 @@
 
 장소를 찾고 보여 주기 위해 아래 서비스에 검색어·장소 이름 등을 보냅니다(사용자 본인의 키, 또는 승인된 경우 공유 키로).
 
-- 네이버 클라우드 NAVER API HUB (장소·블로그·이미지 검색), 카카오 로컬, 한국관광공사 TourAPI, 구글 Places
+- 네이버 클라우드 NAVER API HUB (장소·블로그·이미지 검색), 카카오 로컬, 한국관광공사 TourAPI
 - Anthropic Claude API (AI 코스, 후기 요약) — 미국 서버에서 처리될 수 있습니다. https://www.anthropic.com/legal/privacy
 - 지도 그림: OpenStreetMap 타일, 지도 스크립트(unpkg.com) / 업데이트 확인: GitHub
 
